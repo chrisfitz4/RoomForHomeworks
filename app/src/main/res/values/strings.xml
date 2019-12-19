@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomForHomeworks</string>
+    <string name="new_homework">New Homework</string>
+    <string name="error_text">Error: %s</string>
+    <string name="info_text">Info: %s</string>
+    <string name="total_text">Total: $%.2f</string>
+    <string name="homework_title">Homework Title</string>
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>
+
